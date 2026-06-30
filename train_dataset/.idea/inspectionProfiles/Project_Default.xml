@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="aiogram" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="DateTime" />
+          <option value="DAWG-Python" />
+          <option value="DAWG2-Python" />
+          <option value="docopt" />
+          <option value="ecdsa" />
+          <option value="fastapi" />
+          <option value="frozenlist" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="Jinja2" />
+          <option value="magic-filter" />
+          <option value="MarkupSafe" />
+          <option value="multidict" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="propcache" />
+          <option value="pyasn1" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pymorphy2-dicts-ru" />
+          <option value="pymorphy3" />
+          <option value="pymorphy3-dicts-ru" />
+          <option value="python-dateutil" />
+          <option value="python-jose" />
+          <option value="pytz" />
+          <option value="requests" />
+          <option value="rsa" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="yarl" />
+          <option value="zope.interface" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

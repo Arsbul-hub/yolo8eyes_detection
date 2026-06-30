@@ -1,0 +1,4 @@
+venv/
+/runs/
+/train/
+/val/

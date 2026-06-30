@@ -1,0 +1,13 @@
+# Source - https://stackoverflow.com/a/79027403
+# Posted by hanna_liavoshka, modified by community. See post 'Timeline' for change history
+# Retrieved 2026-06-30, License - CC BY-SA 4.0
+
+# Train/val/test sets as 1) dir: path/to/imgs
+path: "../trainv3" # dataset root dir
+train: "train" # train folder (relative to 'path')
+val: "val" # validation folder (relative to 'path')
+nc: 1
+
+# Classes list
+names:
+    0: eyes
