@@ -2,3 +2,4 @@ venv/
 /runs/
 /train/
 /val/
+YOLOX/YOLOX_outputs/
